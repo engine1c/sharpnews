@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 BASE_URL = https://newsapi.org/
-CUSTOM_URL = v2/everything?q=tesla&from=2023-05-01&sortBy=publishedAt&apiKey=c0892f14520840d8bdd205d07ff1b478
+CUSTOM_URL = v2/everything?q=tesla&from=2023-05-01&sortBy=publishedAt&apiKey=
